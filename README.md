@@ -1,4 +1,5 @@
-# Spring23-Group01
+# Fall '23 - Spring '24 CS@UCF Senior Design Team
+# Team Members: Sophia Hunt, Jorge Nunez, Kieran Jimenez, Joseph Finrock, Jennifer Daks, Preston Kyle
  ### Mobile Application for Pipeline to Better Placemaking using React Native for its development.
 
 * [Introduction](#introduction)
