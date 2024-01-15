@@ -1,4 +1,5 @@
-# Pipeline to Better Placemaking (Website) Fall-Spring 2023 Group 1
+# Pipeline to Better Placemaking (Website) Fall '23 - Spring '24 CS@UCF Senior Design Team
+# Team Members: Sophia Hunt, Jorge Nunez, Kieran Jimenez, Joseph Finrock, Jennifer Daks, Preston Kyle
 ## https://p2bp.herokuapp.com
 
 ## Running frontend files locally
