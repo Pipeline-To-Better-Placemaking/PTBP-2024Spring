@@ -1,4 +1,4 @@
-node_modules/*
+node_modules
 .expo/*
 npm-debug.*
 *.jks
@@ -19,4 +19,4 @@ dist
 .DS_Store
 
 # Intellij
-.idea/
+.idea/node_modules/
